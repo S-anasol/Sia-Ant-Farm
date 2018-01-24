@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/NebulousLabs/Sia-Ant-Farm/ant"
+	"github.com/S-anasol/Sia-Ant-Farm/ant"
 	"github.com/NebulousLabs/Sia/node/api"
 )
 
